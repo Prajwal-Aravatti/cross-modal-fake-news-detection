@@ -1,4 +1,4 @@
-﻿# Cross-Modal Fake News Detection Using Image-Text Consistency
+# Cross-Modal Fake News Detection Using Image-Text Consistency
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 **A multimodal deep learning system that detects fake news by measuring image-text consistency using CLIP ViT-L/14.**
 
-*KLE Technological University — Department of Computer Science & Engineering*
+
 
 </div>
 
@@ -225,14 +225,12 @@ The CLIP model (`openai/clip-vit-large-patch14`) downloads automatically from Hu
 
 | Name | Roll No. | Email |
 |------|----------|-------|
-| Sumanth Shet | 01FE23BCS280 | 01fe23bcs280@kletech.ac.in |
-| Prajwal Aravatti | 01FE23BCS299 | 01fe23bcs299@kletech.ac.in |
-| Mallikarjun G Patil | 01FE23BCS283 | 01fe23bcs283@kletech.ac.in |
-| Mohammad Imran | 01FE23BCS378 | 01fe23bcs378@kletech.ac.in |
+| Sumanth Shet | 01FE23BCS280 |
+| Prajwal Aravatti | 01FE23BCS299 |
+| Mallikarjun G Patil | 01FE23BCS283 |
+| Mohammad Imran | 01FE23BCS378 |
 
-**Guide**: Prof. Suvarna Kanakaraddi — suvarna_gk@kletech.ac.in
-
-*KLE Technological University, Hubballi, India — 5th Semester, Generative AI Course*
+**Guide**: Prof. Suvarna Kanakaraddi
 
 ---
 
@@ -244,7 +242,7 @@ If you use this work, please cite:
 @article{cmcn2024,
   title={Cross-Modal Fake News Detection Using Image-Text Consistency},
   author={Shet, Sumanth and Aravatti, Prajwal and Patil, Mallikarjun G and Imran, Mohammad},
-  institution={KLE Technological University},
+
   year={2024}
 }
 ```
